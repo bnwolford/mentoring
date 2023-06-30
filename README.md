@@ -10,6 +10,8 @@ Welcome to my resources for mentees!
 * Professional development
     - Set up [myScienceIDP](https://myidp.sciencecareers.org/)
     - Make a Gantt chart for your first paper
+    - Sign up for [journal club](https://docs.google.com/spreadsheets/d/1pWvlMLb2uo17Nczh1ldMKvNYFqVYJJR2gPKP07wUq4Y/edit?usp=sharing)
+    - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
 
 * Textbooks
       - Fundamentals of modern statistical genetics (Laird and Lange)  
