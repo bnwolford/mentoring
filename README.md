@@ -17,6 +17,7 @@ Welcome to my resources for mentees!
       - Introduction to Statistics and data analysis (Huemann & Shalabh)
 
 * Misc. online resources
-      - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)
-      - [Stack overflow](https://stackoverflow.com/)
+      - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) 
+      - [Stack overflow](https://stackoverflow.com/) 
       - [biostars.org](https://www.biostars.org/)
+      - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)
