@@ -1,2 +1,4 @@
 # mentoring
-Information to share with mentees
+Welcome to my resources for mentees! 
+
+[Code organization, quality, & formatting standards](/code.md)
