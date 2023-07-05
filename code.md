@@ -120,6 +120,14 @@ For Python: use sphinx & readthedocs to generate docs. The PyCharm IDE can inser
         file.write(jsonpickle.encode(obj))
 ```
 
+# Version control
+Ideally you will use git & GitHub with a separate repo for each project. As long as you frequently commit and push your code to GitHub, you're covered in the event of overwriting your files or disk failure. If you give your commits good descriptive names, it makes life easier for you in the event you need to go back to a prior commit. You likely will not commit raw data to GitHub as those files are typically too large and often have private health information (PHI). You could commit intermediate and final results files if they're < 50 MB and only descriptive summary statistics (not indiviudal level data). Raw data should never be altered and should be backed up on some redundant computing system as able.
+
+Resources:
+[Software Carpentry Git & GitHub lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)
+Pat Schloss' [tutorial on organizing projects for reproducibility](https://riffomonas.org/reproducible_research/) (Skip the lesson on Make and use Snakemake instead) 
+
+
 # Code review
 * Keep the main branch of your repo as a clean, tested, documented, public-facing version of the codebase. When you want to make changes like fix a bug or implement a new feature, create a separate branch, commit your changes, then open a pull request and ask someone else to review your code. They can suggest changes and give you feedback for you to implement before approving the changes and merging the PR into the main branch.
 * It may not make sense to do this for every little change when you're just getting started on a project. You might prefer to sit down with someone to review your code together once you have a solid codebase written.
