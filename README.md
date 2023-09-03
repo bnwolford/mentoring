@@ -23,4 +23,5 @@ Welcome to my resources for mentees!
       - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)  
       - [Stack overflow](https://stackoverflow.com/)   
       - [biostars.org](https://www.biostars.org/)  
-      - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
+      - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)
+      - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
