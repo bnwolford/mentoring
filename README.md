@@ -1,15 +1,13 @@
 # mentoring
 Welcome to my resources for mentees! 
 
-* [Code organization, quality, & formatting standards](/code.md)
-
-* [Learning R](R.md)
-
-* [Reproducible science]
+* Reproducible science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
+    - [Code organization, quality, & formatting standards](/code.md)
 
 * Computing tools
-    - iTerm2  
+    - iTerm2
+    - [Learning R](R.md)
     - JetBrains [educational license](https://www.jetbrains.com/community/education/#students) to donwload Pycharm (for Python) and other IDEs  
     - Create a GitHub user account and get [GitHub Pro free while you're a student](https://education.github.com/discount_requests/application)
     - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)
