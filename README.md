@@ -5,13 +5,24 @@ Welcome to my resources for mentees!
 
 * [Learning R](R.md)
 
-* [Reproducible science]()
+* [Reproducible science]
+    - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
+
+* Computing tools
+    - iTerm2  
+    - JetBrains [educational license](https://www.jetbrains.com/community/education/#students) to donwload Pycharm (for Python) and other IDEs  
+    - Create a GitHub user account and get [GitHub Pro free while you're a student](https://education.github.com/discount_requests/application)
+    - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)
 
 * Professional development
     - Set up [myScienceIDP](https://myidp.sciencecareers.org/)
     - Make a Gantt chart for your first paper
     - Sign up for [journal club](https://docs.google.com/spreadsheets/d/1pWvlMLb2uo17Nczh1ldMKvNYFqVYJJR2gPKP07wUq4Y/edit?usp=sharing)
     - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
+
+* HUNT Cloud
+    - [Documentation](https://docs.hdc.ntnu.no/do-science/)
+    - Review user responsibilities on HUNT Cloud
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
