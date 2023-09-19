@@ -6,11 +6,13 @@ Welcome to my resources for mentees!
     - [Code organization, quality, & formatting standards](/code.md)
 
 * Computing tools
-    - iTerm2
-    - [Learning R](R.md)
+    - iTerm2  
+    - [Learning R](R.md)  
+    - [MIT Open Courseware Intro to Programming](https://ocw.mit.edu/collections/introductory-programming/)  
+    - [Intro to Programming with Python course](https://pll.harvard.edu/course/cs50s-introduction-programming-python) from Harvard  
     - JetBrains [educational license](https://www.jetbrains.com/community/education/#students) to donwload Pycharm (for Python) and other IDEs  
-    - Create a GitHub user account and get [GitHub Pro free while you're a student](https://education.github.com/discount_requests/application)
-    - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)
+    - Create a GitHub user account and get [GitHub Pro free while you're a student](https://education.github.com/discount_requests/application)  
+    - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)  
 
 * Professional development
     - Set up [myScienceIDP](https://myidp.sciencecareers.org/)
