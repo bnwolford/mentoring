@@ -21,6 +21,10 @@ Welcome to my resources for mentees!
 * HUNT Cloud
     - [Documentation](https://docs.hdc.ntnu.no/do-science/)
     - Review user responsibilities on HUNT Cloud
+ 
+* NTNU policies
+    - [NTNU code of ethics for employees](https://i.ntnu.no/wiki/-/wiki/English/Code+of+ethics+for+employees+at+NTNU#section-Code+of+ethics+for+employees+at+NTNU-Specific+guidelines+for+teaching+and+supervision)
+    - 
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
