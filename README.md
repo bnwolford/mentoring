@@ -26,7 +26,10 @@ Welcome to my resources for mentees!
  
 * NTNU policies
     - [NTNU code of ethics for employees](https://i.ntnu.no/wiki/-/wiki/English/Code+of+ethics+for+employees+at+NTNU#section-Code+of+ethics+for+employees+at+NTNU-Specific+guidelines+for+teaching+and+supervision)
-    - 
+
+* Funding opportunities for students
+    - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
+    - [Samarbeidsorganet](https://www.helse-midt.no/samarbeidsorganet/)
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
