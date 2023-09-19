@@ -26,6 +26,7 @@ Welcome to my resources for mentees!
  
 * NTNU policies
     - [NTNU code of ethics for employees](https://i.ntnu.no/wiki/-/wiki/English/Code+of+ethics+for+employees+at+NTNU#section-Code+of+ethics+for+employees+at+NTNU-Specific+guidelines+for+teaching+and+supervision)
+    - [Data handling](https://i.ntnu.no/wiki/-/wiki/Norsk/Personvern+og+forskningsdata+ved+ISM#section-Personvern+og+forskningsdata+ved+ISM-Studenters+lagring)
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
