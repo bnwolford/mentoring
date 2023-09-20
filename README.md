@@ -24,7 +24,9 @@ Welcome to my resources for mentees!
     - [Documentation](https://docs.hdc.ntnu.no/do-science/)
     - Review user responsibilities on HUNT Cloud
  
-* NTNU policies
+* Responsible Conduct of Research and Scholarship
+    - Browse [NIH Research Ethics course](https://researchethics.od.nih.gov/ConfirmBrowse.aspx)
+    - [Guidelines for ethics throughout steps of the research process from NTNU](https://i.ntnu.no/en/forskningsprosess)
     - [NTNU code of ethics for employees](https://i.ntnu.no/wiki/-/wiki/English/Code+of+ethics+for+employees+at+NTNU#section-Code+of+ethics+for+employees+at+NTNU-Specific+guidelines+for+teaching+and+supervision)
     - [Data handling](https://i.ntnu.no/wiki/-/wiki/Norsk/Personvern+og+forskningsdata+ved+ISM#section-Personvern+og+forskningsdata+ved+ISM-Studenters+lagring)
 
