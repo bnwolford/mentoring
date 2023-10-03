@@ -4,6 +4,8 @@ Welcome to my resources for mentees!
 * Reproducible science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
     - [Code organization, quality, & formatting standards](/code.md)
+    - [Open Access](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_AUG/about)
+    - [Research Data Management and Open Science](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_JUNI/about)
 
 * Computing tools
     - iTerm2  
@@ -31,8 +33,7 @@ Welcome to my resources for mentees!
     - [Data handling](https://i.ntnu.no/wiki/-/wiki/Norsk/Personvern+og+forskningsdata+ved+ISM#section-Personvern+og+forskningsdata+ved+ISM-Studenters+lagring)
     - [Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
     - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
-    - [Open Access](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_AUG/about)
-    - [Research Data Management and Open Science](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_JUNI/about)
+  
 
 
 * Funding opportunities for students
