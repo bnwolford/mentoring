@@ -30,6 +30,10 @@ Welcome to my resources for mentees!
     - [NTNU code of ethics for employees](https://i.ntnu.no/wiki/-/wiki/English/Code+of+ethics+for+employees+at+NTNU#section-Code+of+ethics+for+employees+at+NTNU-Specific+guidelines+for+teaching+and+supervision)
     - [Data handling](https://i.ntnu.no/wiki/-/wiki/Norsk/Personvern+og+forskningsdata+ved+ISM#section-Personvern+og+forskningsdata+ved+ISM-Studenters+lagring)
     - [Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
+    - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
+    - [Open Access](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_AUG/about)
+    - [Research Data Management and Open Science](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_JUNI/about)
+
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
@@ -39,6 +43,7 @@ Welcome to my resources for mentees!
       - Fundamentals of modern statistical genetics (Laird and Lange)  
       - Regression modeling strategies (Harrell)  
       - Introduction to Statistics and data analysis (Huemann & Shalabh)
+      - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
 * Statistics resources
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)
