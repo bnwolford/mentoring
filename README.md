@@ -41,7 +41,7 @@ Welcome to my resources for mentees!
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
       - Regression modeling strategies (Harrell)  
-      - Introduction to Statistics and data analysis (Huemann & Shalabh)
+      - Introduction to Statistics and data analysis (Huemann & Shalabh)  
       - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
 * Statistics resources
