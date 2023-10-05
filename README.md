@@ -33,6 +33,7 @@ Welcome to my resources for mentees!
     - [Data handling](https://i.ntnu.no/wiki/-/wiki/Norsk/Personvern+og+forskningsdata+ved+ISM#section-Personvern+og+forskningsdata+ved+ISM-Studenters+lagring)
     - [Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
     - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
+    - [Required NTNU course in information security](https://viewer.nanolearning.com/version/ZmQxGIp0GizaABxC/5491465/28350911)
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
