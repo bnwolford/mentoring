@@ -45,6 +45,9 @@ Welcome to my resources for mentees!
       - Introduction to Statistics and data analysis (Huemann & Shalabh)  
       - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
+* Events & Workshops for students
+      - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)
+
 * Statistics resources
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)
       - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
