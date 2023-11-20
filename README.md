@@ -37,7 +37,10 @@ Welcome to my resources for mentees!
  
 * NTNU specific information for doctoral candidates
     - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)  
-    - [Occupational Health Service at NTNU](https://i.ntnu.no/hms/bedriftshelsetjenesten) *even Master's students are eligible  
+    - [Occupational Health Service at NTNU](https://i.ntnu.no/hms/bedriftshelsetjenesten) *even Master's students are eligible
+    - Compulsory [ethics course SMED8004](https://www.ntnu.edu/studies/courses/SMED8004)
+    - [Science Conversations at NTNU](https://www.ntnu.edu/science-conversations)
+    - [PhD Career Day](https://www.ntnu.edu/phd/career-day)
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
