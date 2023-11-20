@@ -34,10 +34,14 @@ Welcome to my resources for mentees!
     - [Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
     - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
     - [Required NTNU course in information security](https://viewer.nanolearning.com/version/ZmQxGIp0GizaABxC/5491465/28350911)
+ 
+* NTNU specific information for doctoral candidates
+    - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
     - [Samarbeidsorganet](https://www.helse-midt.no/samarbeidsorganet/)
+    - [LHL](https://www.lhl.no/forskning/)
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
@@ -47,6 +51,9 @@ Welcome to my resources for mentees!
 
 * Events & Workshops for students
       - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)
+      - [UC Boulder International Statistical Genetics Workshop](https://www.colorado.edu/ibg/workshop)
+      - [European Educational Programme in Epidemiology](https://EEPE.org)
+      - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)
 
 * Statistics resources
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)
