@@ -36,7 +36,8 @@ Welcome to my resources for mentees!
     - [Required NTNU course in information security](https://viewer.nanolearning.com/version/ZmQxGIp0GizaABxC/5491465/28350911)
  
 * NTNU specific information for doctoral candidates
-    - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)
+    - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)  
+    - [Occupational Health Service at NTNU](https://i.ntnu.no/hms/bedriftshelsetjenesten) *even Master's students are eligible  
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
