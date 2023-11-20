@@ -60,8 +60,8 @@ Welcome to my resources for mentees!
   - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)  
 
 * Statistics resources
-      - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)
-      - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+      - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)  
+      - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)  
 
 * Misc. online resources  
       - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
