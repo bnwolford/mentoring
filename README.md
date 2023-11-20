@@ -59,7 +59,7 @@ Welcome to my resources for mentees!
   - [European Educational Programme in Epidemiology](https://EEPE.org)  
   - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)  
 
-* Statistics resources
+* Statistics resources  
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)  
       - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)  
 
