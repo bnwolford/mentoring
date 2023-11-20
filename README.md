@@ -54,10 +54,10 @@ Welcome to my resources for mentees!
       - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
 * Events & Workshops for students
-      - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)  
-      - [UC Boulder International Statistical Genetics Workshop](https://www.colorado.edu/ibg/workshop)  
-      - [European Educational Programme in Epidemiology](https://EEPE.org)  
-      - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)  
+  - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)  
+  - [UC Boulder International Statistical Genetics Workshop](https://www.colorado.edu/ibg/workshop)  
+  - [European Educational Programme in Epidemiology](https://EEPE.org)  
+  - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)  
 
 * Statistics resources
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)
