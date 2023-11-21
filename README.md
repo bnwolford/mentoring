@@ -35,14 +35,16 @@ Welcome to my resources for mentees!
     - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
     - [Required NTNU course in information security](https://viewer.nanolearning.com/version/ZmQxGIp0GizaABxC/5491465/28350911)
  
-* NTNU specific information for doctoral candidates
+* NTNU-specific information for doctoral candidates
     - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)  
     - [Occupational Health Service at NTNU](https://i.ntnu.no/hms/bedriftshelsetjenesten) *even Master's students are eligible
     - Compulsory [ethics course SMED8004](https://www.ntnu.edu/studies/courses/SMED8004)
     - [Science Conversations at NTNU](https://www.ntnu.edu/science-conversations)
     - [PhD Career Day](https://www.ntnu.edu/phd/career-day)
-    - [Medicine & Health Faculty Library information](https://www.ntnu.no/blogger/ub-mh/) & SMED8007 course
+    - [Medicine & Health Faculty Library information](https://www.ntnu.no/blogger/ub-mh/) & SMED8007 course & drop-in hours every Thursday from 14:00-15:00 in KS21 in the Knowlege Center
     - [NTNU Digital learning](https://digit.ntnu.no/) including courses on research data management, open access, EndNote
+    - Norwegian libraries' [online learning resource center](https://www.phdontrack.net)
+    - Publishing & open access [information](https://innsida.ntnu.no/publisering)
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
