@@ -41,7 +41,8 @@ Welcome to my resources for mentees!
     - Compulsory [ethics course SMED8004](https://www.ntnu.edu/studies/courses/SMED8004)
     - [Science Conversations at NTNU](https://www.ntnu.edu/science-conversations)
     - [PhD Career Day](https://www.ntnu.edu/phd/career-day)
-    - [Medicine & Health Faculty Library information](https://www.ntnu.no/blogger/ub-mh/) & MH8000 course
+    - [Medicine & Health Faculty Library information](https://www.ntnu.no/blogger/ub-mh/) & SMED8007 course
+    - [NTNU Digital learning](https://digit.ntnu.no/) including courses on research data management, open access, EndNote
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
