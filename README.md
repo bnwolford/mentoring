@@ -45,6 +45,8 @@ Welcome to my resources for mentees!
     - [NTNU Digital learning](https://digit.ntnu.no/) including courses on research data management, open access, EndNote
     - Norwegian libraries' [online learning resource center](https://www.phdontrack.net)
     - Publishing & open access [information](https://innsida.ntnu.no/publisering)
+    - NTNU IT [Mimes Brønn](https://i.ntnu.no/wiki/-/wiki/English/Mimes+Br%C3%B8nn+-+IT+Help+for+Students+and+Researchers)
+    - Making a [Data Management Plan](https://i.ntnu.no/wiki/-/wiki/English/Data+management+plan)
 
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
