@@ -63,7 +63,9 @@ Welcome to my resources for mentees!
   - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)  
   - [UC Boulder International Statistical Genetics Workshop](https://www.colorado.edu/ibg/workshop)  
   - [European Educational Programme in Epidemiology](https://EEPE.org)  
-  - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)  
+  - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)
+  - [Gordon Research Conferences](https://www.grc.org/)
+  - EMBL/EBI [on demand](https://www.ebi.ac.uk/training/on-demand) and entire [course and conference program](https://www.embl.org/events/)  
 
 * Statistics resources  
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)  
