@@ -78,4 +78,4 @@ Welcome to my resources for mentees!
       - [biostars.org](https://www.biostars.org/)  
       - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
       - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
-  Using UK Biobank to scale up your reserach [python](https://www.kaggle.com/code/asazonovs/using-uk-biobank-to-scale-up-your-research-python/notebook) and [R](https://www.kaggle.com/code/sinikerminen/using-uk-biobank-to-scale-up-your-research-r/)
+      - Using UK Biobank to scale up your reserach [python](https://www.kaggle.com/code/asazonovs/using-uk-biobank-to-scale-up-your-research-python/notebook) and [R](https://www.kaggle.com/code/sinikerminen/using-uk-biobank-to-scale-up-your-research-r/)
