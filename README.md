@@ -65,7 +65,13 @@ Welcome to my resources for mentees!
   - [European Educational Programme in Epidemiology](https://EEPE.org)  
   - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)
   - [Gordon Research Conferences](https://www.grc.org/)
-  - EMBL/EBI [on demand](https://www.ebi.ac.uk/training/on-demand) and entire [course and conference program](https://www.embl.org/events/)  
+  - EMBL/EBI [on demand](https://www.ebi.ac.uk/training/on-demand) and entire [course and conference program](https://www.embl.org/events/)
+ 
+* Potentially relevant professional societies and conferences
+  - NordicEpi: The Nordic Conference of Epidemiology and Register-Based Health Research [2024](https://nordicepi2024.dk/)  
+  - [Nordic Society of Human Genetics and Precision Medicine](https://nshg-pm.org/) Next meeting Sept 2024  
+  - [European Society of Human Genetics](https://www.eshg.org/home) Annual Meeting every June  
+  - [American Society of Human Genetics](https://www.ashg.org/) Annual Meeting every Oct/Nov  
 
 * Statistics resources  
       - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)  
