@@ -7,20 +7,23 @@ Welcome to my resources for mentees!
     - [Open Access](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_AUG/about)
     - [Research Data Management and Open Science](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_JUNI/about)
 
-* Computing tools
+* Computation Tools & Resources
     - iTerm2  
     - [Learning R](R.md)  
     - [MIT Open Courseware Intro to Programming](https://ocw.mit.edu/collections/introductory-programming/)  
     - [Intro to Programming with Python course](https://pll.harvard.edu/course/cs50s-introduction-programming-python) from Harvard  
     - JetBrains [educational license](https://www.jetbrains.com/community/education/#students) to donwload Pycharm (for Python) and other IDEs  
     - Create a GitHub user account and get [GitHub Pro free while you're a student](https://education.github.com/discount_requests/application)  
-    - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)  
+    - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)
+    - [Stack overflow](https://stackoverflow.com/)
+    - Using UK Biobank to scale up your reserach [python](https://www.kaggle.com/code/asazonovs/using-uk-biobank-to-scale-up-your-research-python/notebook) and [R](https://www.kaggle.com/code/sinikerminen/using-uk-biobank-to-scale-up-your-research-r/)
 
 * Professional development
     - Set up [myScienceIDP](https://myidp.sciencecareers.org/)
     - Make a Gantt chart for your first paper
     - Sign up for [journal club](https://docs.google.com/spreadsheets/d/1pWvlMLb2uo17Nczh1ldMKvNYFqVYJJR2gPKP07wUq4Y/edit?usp=sharing)
     - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
+    - Present at the HUNT CME group meeting once a year
 
 * HUNT Cloud
     - [Documentation](https://docs.hdc.ntnu.no/do-science/)
@@ -74,14 +77,12 @@ Welcome to my resources for mentees!
   - [American Society of Human Genetics](https://www.ashg.org/) Annual Meeting every Oct/Nov  
 
 * Statistics resources  
-      - Survival analysis [notes](https://myweb.uiowa.edu/pbreheny/7210/f19/notes.html)  
-      - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)  
-
-* Misc. online resources  
+      - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
       - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
       - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)  
-      - [Stack overflow](https://stackoverflow.com/)   
+
+* Misc. online resources  
       - [biostars.org](https://www.biostars.org/)  
       - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
       - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)  
-      - Using UK Biobank to scale up your reserach [python](https://www.kaggle.com/code/asazonovs/using-uk-biobank-to-scale-up-your-research-python/notebook) and [R](https://www.kaggle.com/code/sinikerminen/using-uk-biobank-to-scale-up-your-research-r/)
+     
