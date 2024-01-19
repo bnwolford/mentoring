@@ -74,7 +74,8 @@ Welcome to my resources for mentees!
   - NordicEpi: The Nordic Conference of Epidemiology and Register-Based Health Research [2024](https://nordicepi2024.dk/)  
   - [Nordic Society of Human Genetics and Precision Medicine](https://nshg-pm.org/) Next meeting Sept 2024  
   - [European Society of Human Genetics](https://www.eshg.org/home) Annual Meeting every June  
-  - [American Society of Human Genetics](https://www.ashg.org/) Annual Meeting every Oct/Nov  
+  - [American Society of Human Genetics](https://www.ashg.org/) Annual Meeting every Oct/Nov
+  - [useR2024](https://user2024.r-project.org/)
 
 * Statistics resources  
       - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
