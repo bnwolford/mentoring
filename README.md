@@ -1,6 +1,10 @@
 # mentoring
 Welcome to my resources for mentees! 
 
+* Reading on some key genetics concepts
+ - [A molecular genetics perscpective on the heritability of human behavior and group differences by Alexander Gusev](http://gusevlab.org/projects/hsq/#h.8wg4yyfhqbt6)
+ - [An Owner's Guide to the Human Genome by Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+
 * Reproducible science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
     - [Code organization, quality, & formatting standards](/code.md)
