@@ -1,6 +1,16 @@
 # mentoring
 Welcome to my resources for mentees! 
 
+* Onboarding
+    - Set up [myScienceIDP](https://myidp.sciencecareers.org/) and set some goals
+    - Make a Gantt chart for your first paper
+    - Create a GitHub account if you don't already have one
+    - Let's get you on the HUNT CME Teams & hunt genes Gitlab
+    - We will schedule a time to review our expectations worksheet
+    - Sign up for [journal club](https://docs.google.com/spreadsheets/d/1pWvlMLb2uo17Nczh1ldMKvNYFqVYJJR2gPKP07wUq4Y/edit?usp=sharing)
+    - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
+    - You're expected to present at the HUNT CME group meeting once a year, there is a planner on Teams you can sign up
+
 * Reading on some key genetics concepts
   - [A molecular genetics perscpective on the heritability of human behavior and group differences by Alexander Gusev](http://gusevlab.org/projects/hsq/#h.8wg4yyfhqbt6)
   - [An Owner's Guide to the Human Genome by Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/HGbook.html)
@@ -21,13 +31,6 @@ Welcome to my resources for mentees!
     - Software Carpentry [Git and GitHub Lesson](https://umcarpentries.org/intro-curriculum-r/03-intro-git-github/index.html)
     - [Stack overflow](https://stackoverflow.com/)
     - Using UK Biobank to scale up your reserach [python](https://www.kaggle.com/code/asazonovs/using-uk-biobank-to-scale-up-your-research-python/notebook) and [R](https://www.kaggle.com/code/sinikerminen/using-uk-biobank-to-scale-up-your-research-r/)
-
-* Professional development
-    - Set up [myScienceIDP](https://myidp.sciencecareers.org/)
-    - Make a Gantt chart for your first paper
-    - Sign up for [journal club](https://docs.google.com/spreadsheets/d/1pWvlMLb2uo17Nczh1ldMKvNYFqVYJJR2gPKP07wUq4Y/edit?usp=sharing)
-    - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
-    - Present at the HUNT CME group meeting once a year
 
 * HUNT Cloud
     - [Documentation](https://docs.hdc.ntnu.no/do-science/)
@@ -58,7 +61,8 @@ Welcome to my resources for mentees!
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
     - [Samarbeidsorganet](https://www.helse-midt.no/samarbeidsorganet/)
-    - [LHL](https://www.lhl.no/forskning/)
+    - [LHL](https://www.lhl.no/forskning/)  
+    - [ResearchConnect](https://i.ntnu.no/wiki/-/wiki/Norsk/ResearchConnect)  
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
