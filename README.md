@@ -85,6 +85,15 @@ Welcome to my resources for mentees!
   - [European Society of Human Genetics](https://www.eshg.org/home) Annual Meeting every June  
   - [American Society of Human Genetics](https://www.ashg.org/) Annual Meeting every Oct/Nov
   - [useR2024](https://user2024.r-project.org/)
+ 
+* Potential courses you can take
+   - [Multilevel and Longitudinal Modeling](https://www.uio.no/studier/emner/uv/uv/UV9257/)
+   - SMED8007 Scientific publishing and research communication (mandatory for PhD)
+   - KLMED8017 Multilevel models
+   - SMED8002 Epidemiology II
+   - SMED8004 Research ethics and society (mandatory for PhD)
+   - KLMED8004 Introduction to Medical Statistics
+   - KLMED8018 Longitudinal data analysis
 
 * Statistics resources  
       - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
