@@ -96,17 +96,21 @@ Welcome to my resources for mentees!
    - KLMED8018 Longitudinal data analysis
 
 * Statistics resources  
-      - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-      - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
-      - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)  
+  - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+  - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
+  - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)  
+
+* Short term mobility resources
+  - [Erasmus+](https://erasmus-plus.ec.europa.eu/)  
+  - [Fulbright Norway](https://fulbright.no/)  
 
 * Misc. online resources  
-      - [biostars.org](https://www.biostars.org/)  
-      - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
-      - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
+  - [biostars.org](https://www.biostars.org/)  
+  - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
+  - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
 
 * Preparing a talk  
-      - [Noun project](https://thenounproject.com/)
+  - [Noun project](https://thenounproject.com/)
   
 * Preparing a manuscript  
   - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)  
