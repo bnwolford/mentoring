@@ -103,5 +103,10 @@ Welcome to my resources for mentees!
 * Misc. online resources  
       - [biostars.org](https://www.biostars.org/)  
       - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
-      - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)  
+      - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
+
+* Preparing a talk
+      - [Noun project](https://thenounproject.com/)
+* Preparing a manuscript
+  - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)
      
