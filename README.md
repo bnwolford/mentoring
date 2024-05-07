@@ -35,6 +35,7 @@ Welcome to my resources for mentees!
 * HUNT Cloud
     - [Documentation](https://docs.hdc.ntnu.no/do-science/)
     - Review user responsibilities on HUNT Cloud
+    - When you're using Rstudio,  [install packages via the workbench terminal using conda](https://docs.hdc.ntnu.no/do-science/hunt-workbench/getting-started/rstudio/#r-packages). Not through Rstudio and not through the Rstudio terminal. 
  
 * Responsible Conduct of Research and Scholarship
     - Browse [NIH Research Ethics course](https://researchethics.od.nih.gov/ConfirmBrowse.aspx)
