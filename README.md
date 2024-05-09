@@ -20,6 +20,7 @@ Welcome to my resources for mentees!
     - [Code organization, quality, & formatting standards](/code.md)
     - [Open Access](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_AUG/about)
     - [Research Data Management and Open Science](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_JUNI/about)
+    - Think about your [file naming convention](https://doi.org/10.7907/894q-zr22). At the minimum your naming convention should follow YYYY-MM-DD at the start to  record the date. Use underscores instead of spaces. Files undergoing revisions should have a revisions numbering system (e.g. _v01). You can read more [here](https://huridocs.org/resource-library/organising-a-collection-of-human-rights-information/file-naming-conventions/).
 
 * Computation Tools & Resources
     - iTerm2  
