@@ -111,6 +111,9 @@ Welcome to my resources for mentees!
   - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
   - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
 
+* Making figures in R
+  - [patchwork](https://sourcesup.renater.fr/wiki/atelieromp/_media/patchwork_14et15mars2022_omp_drengel.pdf)  
+
 * Preparing a talk  
   - [Noun project](https://thenounproject.com/)
   
