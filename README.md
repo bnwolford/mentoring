@@ -80,6 +80,7 @@ Welcome to my resources for mentees!
   - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)
   - [Gordon Research Conferences](https://www.grc.org/)
   - EMBL/EBI [on demand](https://www.ebi.ac.uk/training/on-demand) and entire [course and conference program](https://www.embl.org/events/)
+  - Leena Peltonen School of Human Genomics (returning in 2025)
  
 * Potentially relevant professional societies and conferences
   - NordicEpi: The Nordic Conference of Epidemiology and Register-Based Health Research [2024](https://nordicepi2024.dk/)  
