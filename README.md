@@ -66,13 +66,14 @@ Welcome to my resources for mentees!
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
     - [Samarbeidsorganet](https://www.helse-midt.no/samarbeidsorganet/)
     - [LHL](https://www.lhl.no/forskning/)  
-    - [ResearchConnect](https://i.ntnu.no/wiki/-/wiki/Norsk/ResearchConnect)  
+    - [ResearchConnect](https://i.ntnu.no/wiki/-/wiki/Norsk/ResearchConnect)
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
       - Regression modeling strategies (Harrell)  
       - Introduction to Statistics and data analysis (Huemann & Shalabh)  
       - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+      - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
 
 * Events & Workshops for students
   - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)  
@@ -120,5 +121,12 @@ Welcome to my resources for mentees!
   - [Noun project](https://thenounproject.com/)
   
 * Preparing a manuscript  
-  - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)  
+  - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)
+ 
+* Looking for a PhD position
+  - [Jobb Norge](https://www.jobbnorge.no/search)
+  - [Webcruiter](https://candidate.webcruiter.com/en-gb/) often has positions from UiO
+  - [Stipendportalen](https://stipendportalen.no/)
+  - [Find a PhD](https://www.findaphd.com/) for Europe wide resources
+  - Search for positions listed under a MSCA Doctoral Network
      
