@@ -48,6 +48,7 @@ Welcome to my resources for mentees!
     - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
     - [Required NTNU course in information security](https://viewer.nanolearning.com/version/ZmQxGIp0GizaABxC/5491465/28350911)
     - Introduction to personal data in health research projects [45 min course from NTNU](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2024_FEB/about)
+    - Personal data in student projects [training](https://i.ntnu.no/wiki/-/wiki/Norsk/Persondata+i+studentprosjekt) (in Norwegian)
  
 * NTNU-specific information for doctoral candidates
     - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)  
