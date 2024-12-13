@@ -68,6 +68,7 @@ Welcome to my resources for mentees!
     - [Samarbeidsorganet](https://www.helse-midt.no/samarbeidsorganet/)
     - [LHL](https://www.lhl.no/forskning/)  
     - [ResearchConnect](https://i.ntnu.no/wiki/-/wiki/Norsk/ResearchConnect)
+    - [Elixir Travel Grants](https://elixir-europe.org/internal-projects/commissioned-services/capacity-building-knowledge-exchange)
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
