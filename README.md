@@ -70,12 +70,15 @@ Welcome to my resources for mentees!
     - [LHL](https://www.lhl.no/forskning/)  
     - [ResearchConnect](https://i.ntnu.no/wiki/-/wiki/Norsk/ResearchConnect)
     - [Elixir Travel Grants](https://elixir-europe.org/internal-projects/commissioned-services/capacity-building-knowledge-exchange)
+    - Short term mobility resources
+        - [Erasmus+](https://erasmus-plus.ec.europa.eu/)  
+        - [Fulbright Norway](https://fulbright.no/)  
 
 * Textbooks  
       - Fundamentals of modern statistical genetics (Laird and Lange)  
       - Regression modeling strategies (Harrell)  
       - Introduction to Statistics and data analysis (Huemann & Shalabh)  
-      - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+      - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)  
       - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
 
 * Events & Workshops for students
@@ -107,10 +110,6 @@ Welcome to my resources for mentees!
   - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
   - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
   - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)  
-
-* Short term mobility resources
-  - [Erasmus+](https://erasmus-plus.ec.europa.eu/)  
-  - [Fulbright Norway](https://fulbright.no/)  
 
 * Misc. online resources  
   - [biostars.org](https://www.biostars.org/)  
