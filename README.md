@@ -11,7 +11,8 @@ Welcome to my resources for mentees!
     - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
     - You're expected to present at the HUNT CME group meeting once a year, there is a planner on Teams you can sign up
 
-* Reading on some key genetics concepts
+* Key Genetics Concepts
+  - [Casey Brown Lecture Series](https://www.youtube.com/playlist?list=PLlV97eYP56rATGyRK4SSHVXyJjVxPGth_)
   - [A molecular genetics perscpective on the heritability of human behavior and group differences by Alexander Gusev](http://gusevlab.org/projects/hsq/#h.8wg4yyfhqbt6)
   - [An Owner's Guide to the Human Genome by Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
