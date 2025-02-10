@@ -12,9 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 
 library(RNOmni)
-
 set.seed(1234)
 
+```
+
+# Simulate data
+```{r}
 #make a messy distribution by mixing normal and uniform
 x<-rnorm(100,mean=20,sd=100)
 y<-runif(100)*100
@@ -24,16 +27,22 @@ hist(a)
 mean(a)
 var(a)
 sd(a)
+```
 
+# Standardize
+Scale does nothing to make the data normal. Makes mean of 0 and variance of 1. Using the default settings in R it scales each element by subtracting the mean and dividing by the SD.  
+```{r}
 ###standardize (substracts mean and divides by sd)
-### makes mean of 0 and variance of 1
 scaled<-scale(a)
 hist(scaled)
 mean(scaled)
 var(scaled)
 sd(scaled)
+```
 
-### min max normalization
+# Normalization (Min-max) 
+A range based version also exists. This re-scales the data to a range between 0 and 1. This technique preserves the relative order and distance of the data points, but it also reduces the variance and magnifies the effect of outliers
+```{r echo=FALSE}
 minMax <- function(x) {
   (x - min(x)) / (max(x) - min(x))
 }
@@ -42,17 +51,16 @@ hist(mm)
 mean(mm)
 var(mm)
 sd(mm)
+```
 
-### rank based inverse normal transformation
-### https://yingji15.github.io/2019-08-17-inverse-normal-transformation/
+# Rank based inverse normal transformation
+Essentially this first ranks the data, then converts them to z-scores using an inverse-normal transformation. This makes the data normally distributed as well as having a mean of 1 and SD of 1. A non-rank version also exists. Read more about INT [here](https://yingji15.github.io/2019-08-17-inverse-normal-transformation/) and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC8643141/).  
+```{r echo=FALSE}
 ### makes mean of 0 and variance of 1 while also making the distribution normal 
 ranked<-RankNorm(a)
 hist(ranked)
 mean(ranked)
 var(ranked)
 sd(ranked)
-
-
-
 ```
 
