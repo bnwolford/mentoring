@@ -1,0 +1,58 @@
+---
+title: "Standardization"
+author: "Brooke Wolford"
+date: "2025-02-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+library(RNOmni)
+
+set.seed(1234)
+
+#make a messy distribution by mixing normal and uniform
+x<-rnorm(100,mean=20,sd=100)
+y<-runif(100)*100
+a<-c(x,y)
+
+hist(a)
+mean(a)
+var(a)
+sd(a)
+
+###standardize (substracts mean and divides by sd)
+### makes mean of 0 and variance of 1
+scaled<-scale(a)
+hist(scaled)
+mean(scaled)
+var(scaled)
+sd(scaled)
+
+### min max normalization
+minMax <- function(x) {
+  (x - min(x)) / (max(x) - min(x))
+}
+mm<-minMax(a)
+hist(mm)
+mean(mm)
+var(mm)
+sd(mm)
+
+### rank based inverse normal transformation
+### https://yingji15.github.io/2019-08-17-inverse-normal-transformation/
+### makes mean of 0 and variance of 1 while also making the distribution normal 
+ranked<-RankNorm(a)
+hist(ranked)
+mean(ranked)
+var(ranked)
+sd(ranked)
+
+
+
+```
+
