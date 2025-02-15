@@ -131,4 +131,6 @@ Welcome to my resources for mentees!
   - [Stipendportalen](https://stipendportalen.no/)
   - [Find a PhD](https://www.findaphd.com/) for Europe wide resources
   - Search for positions listed under a MSCA Doctoral Network
-     
+
+* Talking to media
+  - [Guide from Science](https://www.science.org/content/blog-post/some-guidance-authors-engaging-media)
