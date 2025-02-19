@@ -109,7 +109,8 @@ Welcome to my resources for mentees!
 * Statistics resources  
   - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
   - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
-  - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)  
+  - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+  - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024)   
 
 * Misc. online resources  
   - [biostars.org](https://www.biostars.org/)  
