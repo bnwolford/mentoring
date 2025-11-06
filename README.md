@@ -39,6 +39,7 @@ Welcome to my resources for mentees!
     - [Documentation](https://docs.hdc.ntnu.no/do-science/)
     - Review user responsibilities on HUNT Cloud
     - When you're using Rstudio,  [install packages via the workbench terminal using conda](https://docs.hdc.ntnu.no/do-science/hunt-workbench/getting-started/rstudio/#r-packages). Not through Rstudio and not through the Rstudio terminal.
+    - Be sure to not use [Anaconda owned channels](https://blog.fulcrumgenomics.com/p/anaconda-licensing-changes?hide_intro_popup=true)
  
 * Communciating with HUNT  
    - kontakt@hunt.ntnu.no for anything that needs some sort of approval (application for new project, including more individuals/variables to existing project, paper approval etc.)  
