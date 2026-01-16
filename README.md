@@ -11,11 +11,6 @@ Welcome to my resources for mentees!
     - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
     - You're expected to present at the HUNT CME group meeting once a year, there is a planner on Teams you can sign up
 
-* Key Genetics Concepts
-  - [Casey Brown Lecture Series](https://www.youtube.com/playlist?list=PLlV97eYP56rATGyRK4SSHVXyJjVxPGth_)
-  - [A molecular genetics perscpective on the heritability of human behavior and group differences by Alexander Gusev](http://gusevlab.org/projects/hsq/#h.8wg4yyfhqbt6)
-  - [An Owner's Guide to the Human Genome by Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/HGbook.html)
-
 * Reproducible science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
     - [Code organization, quality, & formatting standards](/code.md)
@@ -79,13 +74,6 @@ Welcome to my resources for mentees!
         - [Erasmus+](https://erasmus-plus.ec.europa.eu/)  
         - [Fulbright Norway](https://fulbright.no/)  
 
-* Textbooks  
-      - Fundamentals of modern statistical genetics (Laird and Lange)  
-      - Regression modeling strategies (Harrell)  
-      - Introduction to Statistics and data analysis (Huemann & Shalabh)  
-      - [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)  
-      - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
-
 * Events & Workshops for students
   - [Digital Life Norway](https://www.digitallifenorway.org/research-school/events/index.html)  
   - [UC Boulder International Statistical Genetics Workshop](https://www.colorado.edu/ibg/workshop)  
@@ -93,7 +81,7 @@ Welcome to my resources for mentees!
   - [U of Washington Summer Institute in Statisticsl Genetics](https://si.biostat.washington.edu/institutes/sisg)
   - [Gordon Research Conferences](https://www.grc.org/)
   - EMBL/EBI [on demand](https://www.ebi.ac.uk/training/on-demand) and entire [course and conference program](https://www.embl.org/events/)
-  - Leena Peltonen School of Human Genomics (returning in 2025)
+  - Leena Peltonen School of Human Genomics
  
 * Potentially relevant professional societies and conferences
   - NordicEpi: The Nordic Conference of Epidemiology and Register-Based Health Research [2024](https://nordicepi2024.dk/)  
@@ -110,18 +98,7 @@ Welcome to my resources for mentees!
    - SMED8004 Research ethics and society (mandatory for PhD)
    - KLMED8004 Introduction to Medical Statistics
    - KLMED8018 Longitudinal data analysis
-
-* Statistics resources  
-  - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-  - [ASA statement on p-values](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
-  - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
-  - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024)   
-
-* Misc. online resources  
-  - [biostars.org](https://www.biostars.org/)  
-  - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)  
-  - [UCLA Computation Genomics Summer Institute YouTube](https://www.youtube.com/@computationalgenomicssumme6137/videos)
-
+     
 * Making figures in R
   - [patchwork](https://sourcesup.renater.fr/wiki/atelieromp/_media/patchwork_14et15mars2022_omp_drengel.pdf)  
 
@@ -130,7 +107,8 @@ Welcome to my resources for mentees!
   
 * Preparing a manuscript  
   - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)
- 
+ - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)
+   
 * Looking for a PhD position
   - [Jobb Norge](https://www.jobbnorge.no/search)
   - [Webcruiter](https://candidate.webcruiter.com/en-gb/) often has positions from UiO
