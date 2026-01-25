@@ -1,12 +1,12 @@
 # mentoring
 Welcome to my resources for mentees! 
 
-[R programming](R.md)
-Finding [PhD and Postdoc positions](career.md)
-Best practices for [coding](code.md)
-Genetics & genomics [resources](genomics.md)
-Proteomics [resources](proteomics.md)
-Statistics [resources](stats.md)
+[R programming](R.md)  
+Finding [PhD and Postdoc positions](career.md)  
+Best practices for [coding](code.md)  
+Genetics & genomics [resources](genomics.md)  
+Proteomics [resources](proteomics.md)  
+Statistics [resources](stats.md)  
 
 * Onboarding
     - Set up [myScienceIDP](https://myidp.sciencecareers.org/) and set some goals
