@@ -108,13 +108,6 @@ Welcome to my resources for mentees!
 * Preparing a manuscript  
   - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)
  - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)
-   
-* Looking for a PhD position
-  - [Jobb Norge](https://www.jobbnorge.no/search)
-  - [Webcruiter](https://candidate.webcruiter.com/en-gb/) often has positions from UiO
-  - [Stipendportalen](https://stipendportalen.no/)
-  - [Find a PhD](https://www.findaphd.com/) for Europe wide resources
-  - Search for positions listed under a MSCA Doctoral Network
 
 * Talking to media
   - [Guide from Science](https://www.science.org/content/blog-post/some-guidance-authors-engaging-media)
