@@ -96,13 +96,11 @@ Ethics and Handling [sensitive data](sensitivedata.md)
    - SMED8004 Research ethics and society (mandatory for PhD)
    - KLMED8004 Introduction to Medical Statistics
    - KLMED8018 Longitudinal data analysis
-     
-* Making figures in R
-  - [patchwork](https://sourcesup.renater.fr/wiki/atelieromp/_media/patchwork_14et15mars2022_omp_drengel.pdf)  
-
+    
 * Preparing a talk  
   - [Noun project](https://thenounproject.com/)
-  
+  - BioRender
+
 * Preparing a manuscript  
   - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)
  - [Set up a citation manager](https://guides.lib.berkeley.edu/publichealth/citations)
