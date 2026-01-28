@@ -30,5 +30,9 @@ Most packages have datasets included in them, and they are made particularly to 
 
 For example, if you download the package `survival` (used for survival analysis) and click on the package you can scroll down among the descriptions of the different functions belonging to that package, and find a dataset called “cancer”, which includes many different variables to practice survival analysis on.
 
+## Common packages
+* For making figures in R: [patchwork](https://sourcesup.renater.fr/wiki/atelieromp/_media/patchwork_14et15mars2022_omp_drengel.pdf)  
+
+
 
 
