@@ -7,16 +7,18 @@ Best practices for [coding](code.md)
 Genetics & genomics [resources](genomics.md)  
 Proteomics [resources](proteomics.md)  
 Statistics [resources](stats.md)  
+Ethics and Handling [sensitive data](sensitivedata.md)
 
-* Onboarding
+* Onboarding for trainees 
     - Set up [myScienceIDP](https://myidp.sciencecareers.org/) and set some goals
-    - Make a Gantt chart for your first paper
+    - Make a [Gantt chart](https://www.coursera.org/articles/gantt-charts?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_desktop) for your first paper
     - Create a GitHub account if you don't already have one
-    - Let's get you on the HUNT CME Teams & hunt genes Gitlab
+    - Let's get you on the HUNT CME Teams & hunt genes Gitlab; remind me!
     - We will schedule a time to review our expectations worksheet
-    - Sign up for [journal club](https://docs.google.com/spreadsheets/d/1pWvlMLb2uo17Nczh1ldMKvNYFqVYJJR2gPKP07wUq4Y/edit?usp=sharing)
-    - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/huntgenes/seminar-series)
-    - You're expected to present at the HUNT CME group meeting once a year, there is a planner on Teams you can sign up
+    - Sign up for [seminar series & mentoring meetings](https://www.ntnu.edu/hunt/mce/seminar-series) on the last Monday of each month
+    - HUNT MCE group meeting is every Monday at 12:00 in ØHM11. You're expected to present at the HUNT MCE group meeting once a year, there is a planner on Teams you can sign up.
+    - Review the ethics and Handling [sensitive data](sensitivedata.md) to be sure we have the documentation in place for your project.
+    - Get set up on HUNT Cloud. 1) Download the Signal app 2) Complete the [HUNT Cloud User Agreement](https://assets.hdc.ntnu.no/assets/agreements/hunt-cloud-user-agreement.pdf) and send to me
 
 * Reproducible science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
