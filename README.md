@@ -10,8 +10,6 @@ Statistics [resources](stats.md)
 Ethics and Handling [sensitive data](sensitivedata.md)
 
 * Onboarding for trainees 
-    - Set up [myScienceIDP](https://myidp.sciencecareers.org/) and set some goals
-    - Make a [Gantt chart](https://www.coursera.org/articles/gantt-charts?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_desktop) for your first paper
     - Create a GitHub account if you don't already have one
     - Let's get you on the HUNT CME Teams & hunt genes Gitlab; remind me!
     - We will schedule a time to review our expectations worksheet
@@ -19,6 +17,10 @@ Ethics and Handling [sensitive data](sensitivedata.md)
     - HUNT MCE group meeting is every Monday at 12:00 in ØHM11. You're expected to present at the HUNT MCE group meeting once a year, there is a planner on Teams you can sign up.
     - Review the ethics and Handling [sensitive data](sensitivedata.md) to be sure we have the documentation in place for your project.
     - Get set up on HUNT Cloud. 1) Download the Signal app 2) Complete the [HUNT Cloud User Agreement](https://assets.hdc.ntnu.no/assets/agreements/hunt-cloud-user-agreement.pdf) and send to me
+    - Set up [myScienceIDP](https://myidp.sciencecareers.org/) and set some goals
+    - Make a [Gantt chart](https://www.coursera.org/articles/gantt-charts?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_desktop) for your first paper
+    - Let's decide on a time for a weekly or biweekly standing meeting
+    - Decide what reference manager you'd like to use which has a plugin for Word/Google Docs. I prefer Zotero or Paperpile. NTNU has good documetnation for [EndNote](https://ntnu-no.libguides.com/EndNote-guide)  
 
 * Reproducible science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
