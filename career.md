@@ -4,6 +4,8 @@
   - [Stipendportalen](https://stipendportalen.no/)
   - [Find a PhD](https://www.findaphd.com/) for Europe wide resources
   - Search for positions listed under a MSCA Doctoral Network
+  - FIMM-EMBL International PhD Program
+  - [Nature Careers for Europe](https://www.nature.com/naturecareers/jobs/phd-position/europe/)
  
 * Looking for a postdoc
   - Marie Curie Postdoctoral [Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) for Europe
