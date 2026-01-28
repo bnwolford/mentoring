@@ -47,17 +47,6 @@ Statistics [resources](stats.md)
    - kontakt@hunt.ntnu.no for anything that needs some sort of approval (application for new project, including more individuals/variables to existing project, paper approval etc.)  
    - kontakt.db@hunt.ntnu.no for more general questions (sample sizes, overlap between data sets, what variables exist, FileSender links that have expired etc.)  
  
-* Responsible Conduct of Research and Scholarship
-    - Browse [NIH Research Ethics course](https://researchethics.od.nih.gov/ConfirmBrowse.aspx)
-    - [Guidelines for ethics throughout steps of the research process from NTNU](https://i.ntnu.no/en/forskningsprosess)
-    - [NTNU code of ethics for employees](https://i.ntnu.no/wiki/-/wiki/English/Code+of+ethics+for+employees+at+NTNU#section-Code+of+ethics+for+employees+at+NTNU-Specific+guidelines+for+teaching+and+supervision)
-    - [Data handling](https://i.ntnu.no/wiki/-/wiki/Norsk/Personvern+og+forskningsdata+ved+ISM#section-Personvern+og+forskningsdata+ved+ISM-Studenters+lagring)
-    - [Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
-    - [Copyright](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB_3+2023_AUG/about)
-    - [Required NTNU course in information security](https://viewer.nanolearning.com/version/ZmQxGIp0GizaABxC/5491465/28350911)
-    - Introduction to personal data in health research projects [45 min course from NTNU](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2024_FEB/about)
-    - Personal data in student projects [training](https://i.ntnu.no/wiki/-/wiki/Norsk/Persondata+i+studentprosjekt) (in Norwegian)
- 
 * NTNU-specific information for doctoral candidates
     - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)  
     - [Occupational Health Service at NTNU](https://i.ntnu.no/hms/bedriftshelsetjenesten) *even Master's students are eligible
