@@ -10,3 +10,7 @@
   - Regression modeling strategies (Harrell)  
   - Introduction to Statistics and data analysis (Huemann & Shalabh)
   - [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
+
+* Online textbooks
+  - [Bayes Rules](https://www.bayesrulesbook.com/chapter-1)  
+  - [Model to Meaning](https://marginaleffects.com/chapters/who.html)  
