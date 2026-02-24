@@ -4,6 +4,7 @@
   - More discussion on p-values, ["Moving to a world beyond p<0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
   - [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2024)
   - [Common statistics tests are linear models](https://lindeloev.github.io/tests-as-linear/)
+  - [Catalog of Biases](https://catalogofbias.org/biases/)
 
 * Textbooks  
   - Fundamentals of modern statistical genetics (Laird and Lange)  
