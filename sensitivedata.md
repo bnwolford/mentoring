@@ -1,3 +1,7 @@
+# Ethics and Sensitive Data
+
+* [Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/)
+
 * Responsible Conduct of Research and Scholarship
     - Browse [NIH Research Ethics course](https://researchethics.od.nih.gov/ConfirmBrowse.aspx)
     - [Guidelines for ethics throughout steps of the research process from NTNU](https://i.ntnu.no/en/forskningsprosess)
