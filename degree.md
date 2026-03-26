@@ -16,5 +16,15 @@ Information for Master's and PhD students
     - [NTNU Digital learning](https://digit.ntnu.no/) including courses on research data management, open access, EndNote
     - Norwegian libraries' [online learning resource center](https://www.phdontrack.net)
     - Publishing & open access [information](https://innsida.ntnu.no/publisering)
-    - NTNU IT [Mimes Brønn](https://i.ntnu.no/wiki/-/wiki/English/Mimes+Br%C3%B8nn+-+IT+Help+for+Students+and+Researchers)
+    - NTNU IT [Mimes Brønn](https://i.ntnu.no/wiki/-/wiki/English/Mimes+Br%C3%B8nn+-
+
+* Potential courses you can take
+   - [Multilevel and Longitudinal Modeling](https://www.uio.no/studier/emner/uv/uv/UV9257/)
+   - SMED8007 Scientific publishing and research communication (mandatory for PhD)
+   - KLMED8017 Multilevel models
+   - SMED8002 Epidemiology II
+   - SMED8004 Research ethics and society (mandatory for PhD)
+   - KLMED8004 Introduction to Medical Statistics
+   - KLMED8018 Longitudinal data analysis
+  +IT+Help+for+Students+and+Researchers)
     - Making a [Data Management Plan](https://i.ntnu.no/wiki/-/wiki/English/Data+management+plan)
