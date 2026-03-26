@@ -7,7 +7,7 @@ Best practices for [coding](code.md)
 Genetics & genomics [resources](genomics.md)  
 Proteomics [resources](proteomics.md)  
 Statistics [resources](stats.md)  
-Ethics and Handling [sensitive data](sensitivedata.md)
+Ethics and Handling [sensitive data](sensitivedata.md)  
 Info for Master's and PhD [degrees](degree.md)   
 
 * Onboarding for trainees 
