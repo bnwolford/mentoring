@@ -8,6 +8,7 @@ Genetics & genomics [resources](genomics.md)
 Proteomics [resources](proteomics.md)  
 Statistics [resources](stats.md)  
 Ethics and Handling [sensitive data](sensitivedata.md)
+Info for Master's and PhD [degrees](degree.md)   
 
 * Onboarding for trainees 
     - Create a GitHub account if you don't already have one
@@ -51,19 +52,6 @@ Ethics and Handling [sensitive data](sensitivedata.md)
    - kontakt@hunt.ntnu.no for anything that needs some sort of approval (application for new project, including more individuals/variables to existing project, paper approval etc.)  
    - kontakt.db@hunt.ntnu.no for more general questions (sample sizes, overlap between data sets, what variables exist, FileSender links that have expired etc.)  
  
-* NTNU-specific information for doctoral candidates
-    - [PhD handbook](https://i.ntnu.no/wiki/-/wiki/English/PhD+Handbook)  
-    - [Occupational Health Service at NTNU](https://i.ntnu.no/hms/bedriftshelsetjenesten) *even Master's students are eligible
-    - Compulsory [ethics course SMED8004](https://www.ntnu.edu/studies/courses/SMED8004)
-    - [Science Conversations at NTNU](https://www.ntnu.edu/science-conversations)
-    - [PhD Career Day](https://www.ntnu.edu/phd/career-day)
-    - [Medicine & Health Faculty Library information](https://www.ntnu.no/blogger/ub-mh/) & SMED8007 course & drop-in hours every Thursday from 14:00-15:00 in KS21 in the Knowlege Center
-    - [NTNU Digital learning](https://digit.ntnu.no/) including courses on research data management, open access, EndNote
-    - Norwegian libraries' [online learning resource center](https://www.phdontrack.net)
-    - Publishing & open access [information](https://innsida.ntnu.no/publisering)
-    - NTNU IT [Mimes Brønn](https://i.ntnu.no/wiki/-/wiki/English/Mimes+Br%C3%B8nn+-+IT+Help+for+Students+and+Researchers)
-    - Making a [Data Management Plan](https://i.ntnu.no/wiki/-/wiki/English/Data+management+plan)
-
 * Funding opportunities for students
     - [DKNVS for researchers under 30](https://www.dknvs.no/sok-stotte/stipend/)
     - [Samarbeidsorganet](https://www.helse-midt.no/samarbeidsorganet/)
