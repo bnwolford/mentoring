@@ -2,7 +2,8 @@ Information for Master's and PhD students
 
 # Master's
 
-[Guidelines for Master's thesis grades](https://i.ntnu.no/wiki/-/wiki/English/Description+of+grades+for+master+thesis)
+* [Guidelines for Master's thesis grades](https://i.ntnu.no/wiki/-/wiki/English/Description+of+grades+for+master+thesis)  
+* [NTNU Master's thesis information](https://i.ntnu.no/en/masteroppgave) with faculty specific guidelines  
 
 # PhD
 
