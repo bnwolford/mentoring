@@ -9,6 +9,7 @@ Proteomics [resources](proteomics.md)
 Statistics [resources](stats.md)  
 Ethics and Handling [sensitive data](sensitivedata.md)  
 Info for Master's and PhD [degrees](degree.md)   
+Free & open source images for [preparing visualization](https://blog.stephenturner.us/p/free-open-source-images-tools-scientific-illustrations)
 
 * Onboarding for trainees 
     - Create a GitHub account if you don't already have one
@@ -77,10 +78,6 @@ Info for Master's and PhD [degrees](degree.md)
   - [European Society of Human Genetics](https://www.eshg.org/home) Annual Meeting every June  
   - [American Society of Human Genetics](https://www.ashg.org/) Annual Meeting every Oct/Nov
   - [useR2024](https://user2024.r-project.org/)
-    
-* Preparing a talk  
-  - [Noun project](https://thenounproject.com/)
-  - BioRender
 
 * Preparing a manuscript  
   - Create an excel so you can easily format your author page with this [tool](https://authorarranger.nci.nih.gov/#/)
