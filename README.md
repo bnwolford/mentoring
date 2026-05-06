@@ -24,13 +24,14 @@ Free & open source images for [preparing visualization](https://blog.stephenturn
     - Let's decide on a time for a weekly or biweekly standing meeting
     - Decide what reference manager you'd like to use which has a plugin for Word/Google Docs. I prefer Zotero or Paperpile. NTNU has good documetnation for [EndNote](https://ntnu-no.libguides.com/EndNote-guide)  
 
-* Reproducible science
+* Reproducible & repeatbale science
     - [Organizing projects for reproducibility](https://riffomonas.org/reproducible_research/)
     - [Code organization, quality, & formatting standards](/code.md)
     - NTNU policy on [research data](https://i.ntnu.no/researchdata)  
     - [Open Access](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_AUG/about)
     - [Research Data Management and Open Science](https://digit.ntnu.no/courses/course-v1:NTNU+NTNU-UB+2023_JUNI/about)
     - Think about your [file naming convention](https://doi.org/10.7907/894q-zr22). At the minimum your naming convention should follow YYYY-MM-DD at the start to  record the date. Use underscores instead of spaces. Files undergoing revisions should have a revisions numbering system (e.g. _v01). You can read more [here](https://huridocs.org/resource-library/organising-a-collection-of-human-rights-information/file-naming-conventions/).
+    - Citing [R packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
 
 * Computation Tools & Resources
     - iTerm2  
